@@ -1,2 +1,0 @@
-# Cursinho_FullStack
- 
